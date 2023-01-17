@@ -1,0 +1,8 @@
+group:
+  repos: |
+    d99-1/portfolio-site
+    d99-1/portfolio-site2
+    d99-1/portfolio-site3
+  files: 
+    - source: /
+      dest: /
