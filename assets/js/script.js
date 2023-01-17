@@ -67,7 +67,7 @@ projects.forEach((project) => {
 
 <div class="card" id="${project.name}" onClick="clicked(this)">
 <div class="row-div">
-  <label for="collapsible" class="lbl-toggle">${project.name}<i class="fa-solid fa-caret-right"></i></label>
+  <label for="collapsible" class="lbl-toggle">${project.name}</label>
   </div>
   </div>
 
